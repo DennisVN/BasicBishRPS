@@ -1,0 +1,15 @@
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\SandBox2.exe
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\SandBox2.deps.json
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\SandBox2.runtimeconfig.json
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\SandBox2.runtimeconfig.dev.json
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\SandBox2.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\ref\SandBox2.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\bin\Debug\net5.0\SandBox2.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.AssemblyInfoInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.AssemblyInfo.cs
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.csproj.CoreCompileInputs.cache
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\ref\SandBox2.dll
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.pdb
+C:\Users\BEAUCOUPDARGENT\source\repos\SandBox2\SandBox2\obj\Debug\net5.0\SandBox2.genruntimeconfig.cache
